@@ -1,1 +1,6 @@
-# RWS-Workforce-Output-Analysis-Using-Power-BI-
+# RWS-Workforce-Output-Analysis-Using-Power-BI-<img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/5a48bdd4-ac78-4507-9ee7-a36fc7554f90" />
+Most teams measure productivity the wrong way. They track hours worked… Instead of the output delivered. So I built my friend a Workforce Analytics Dashboard using Microsoft Power BI to shift the focus from activity → impact. Here’s what I uncovered 👇 📊 Total Hours vs Tasks Completed 📈 Throughput Trends across days ⚡ Efficiency vs Target Performance 🎯 Task-level productivity insights Instead of asking: “How long did people work?” We can now ask: 👉 “How much value did they deliver?” This is powerful because: It highlights high-performing workflows Identifies bottlenecks in task completion Helps teams optimize resource utilization & efficiency (Medium) 💡 One key insight: Productivity isn’t about working more… It’s about working smarter with data. 🛠️ Tools used: Power BI (Dashboard & Visualization) Data Modeling KPI Design I’m currently open to: 🌍 Remote Data Analyst roles 📊 Power BI / Dashboard projects If you’re hiring or know someone who is, let’s connect 🤝
+
+🔗 Check out the full dashboard using the link below: 👇 https://lnkd.in/dXz_gWrK
+
+#DataAnalytics #PowerBI #DataAnalyst #DashboardDesign #BusinessIntelligence #OpenToWork #AnalyticsPortfolio #DataVisualization
